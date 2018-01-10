@@ -1,6 +1,7 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
-group='com.github.cryptoUtils'
+
+group='com.github.CryptoUtils'
 android {
     compileSdkVersion 26
 
